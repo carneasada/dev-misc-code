@@ -1,6 +1,6 @@
 .fan_box .full_widget{
   
-  border: 1px #dbdbdb  !important;
+  border:1px solid #DBDBDB !important;
   background: #dbdbdb !important;
   position: relative;
   -webkit-border-radius: 5px;
@@ -9,7 +9,7 @@
 }
 
 .fan_box .full_widget .connect_top {
-    background: none repeat scroll 0 0 #dbdbdb !important;
+    background: none !important;
 }
 
 
