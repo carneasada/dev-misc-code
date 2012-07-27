@@ -1,3 +1,6 @@
-.actorPhoto{
-	display:none !important;
+.fan_box .full_widget{
+  
+  border: 1px #dbdbdb  !important;
+  background: #dbdbdb !important;
+  position: relative;
 }
